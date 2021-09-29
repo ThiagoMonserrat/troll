@@ -1,5 +1,1 @@
-let nome = prompt("Qual seu nome garotinha?")
-prompt("Que lindo nome minha princesinha")
-prompt("Voce gosta de homens?")
-prompt("Desculpa por essas perguntas, mas agora as coisa vão ficar serias, tudo bem?")
-prompt("Seu nome é " + nome + " Certo?")
+fgh
